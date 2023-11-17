@@ -8,4 +8,7 @@ First I made the necessary folders for the database. I modified the index.js wit
 * SQL
 
 ## Deployed App
-[Shelby's Employee Tracker] 
+[Shelby's Employee Tracker] https://shelbybennett.github.io/Employee-Tracker/ 
+
+## Video Demonstration
+https://watch.screencastify.com/v/yWSzBbVhp0ZnxHlzwIrp
